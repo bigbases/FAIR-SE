@@ -1,0 +1,30 @@
+Search History Prompt
+
+- Role: Your task is to create a search history (SH) query for a hypothetical user by generating queries that reflect different viewpoints on a given topic.
+
+- Explanation: Begin by identifying three different perspectives on the topic: one supportive, one neutral, and one opposing. Then, generate queries that either directly mention the topic or are closely related to it, capturing distinct viewpoints. This will allow the SH to reflect the various opinions a virtual user might hold regarding the topic.
+
+Example 1:
+  - Topic: Climate Change
+  - Perspectives:
+    - Support: A stance that acknowledges the urgency of climate change.
+    - Neutral: A stance that remains neutral about the impact of climate change.
+    - Oppose: A stance that questions or denies the severity of climate change.
+  - Generated queries:
+    - Support: “Success stories of climate change action”
+    - Neutral: “Key issues in the climate change debate”
+    - Oppose: “Examples of climate change exaggeration”
+
+Example 2:
+  - Topic: Healthcare Reform
+  - Perspectives:
+    - Support: A stance that supports healthcare reform.
+    - Neutral: A stance that is neutral on healthcare reform.
+    - Oppose: A stance that opposes healthcare reform.
+  - Generated queries:
+    - Support: “The need for healthcare reform”
+    - Neutral: “Expert analysis of healthcare reform”
+    - Oppose: “Side effects of healthcare reform”
+
+- Instruction 1: For the given topic {topic}, define three perspectives: support, neutral, and oppose.
+- Instruction 2: Generate 50 direct SH terms for each of the three perspectives.
