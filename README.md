@@ -2,6 +2,15 @@
 
 FAIR-SE is a comprehensive framework for analyzing fairness and bias in search engine results across different user contexts, search engines, and topics. This project employs a multi-layered approach to collect, analyze, and statistically verify bias patterns in search results.
 
+## Publication
+**Paper Title:** FAIR-SE: Framework for Analyzing Information Disparities in Search Engines with Diverse LLM-Generated Personas 
+**Authors:** Jaebeom You, Seung-Kyu Hong, Ling Liu, Kisung Lee, Hyuk-Yoon Kwon  
+**Conference:** Proceedings of the 34th ACM International Conference on Information and Knowledge Management  
+**Year:** 2025  
+**DOI:** ---
+**Published:** November 10--14, 2025 
+**Link:** --
+
 ## Project Overview
 
 Search engines are critical information gatekeepers that shape how users access and perceive information online. However, various user contexts (such as language settings, geographic location, browser environment, and search history) can potentially influence search results, leading to personalization bubbles or systematic biases. FAIR-SE provides a systematic methodology to detect, quantify, and analyze such biases.
